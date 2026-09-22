@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample demonstrates how to automatically select the existing text in a cell editor when a user enters edit mode within the Syncfusion Blazor DataGrid. By default, the editor receives focus during editing, but users may need to manually select the current value before replacing it. This example customizes the editing workflow so that the existing text is selected automatically, allowing users to immediately begin typing and replace the current value. The approach improves data-entry efficiency in batch editing scenarios where frequent cell updates are performed.
+This sample demonstrates how to automatically select the existing text in a cell editor when a user enters edit mode within the Syncfusion [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid). By default, the editor receives focus during editing, but users may need to manually select the current value before replacing it. This example customizes the editing workflow so that the existing text is selected automatically, allowing users to immediately begin typing and replace the current value. The approach improves data-entry efficiency in batch editing scenarios where frequent cell updates are performed.
 
 ## Key Features
 
